@@ -1,11 +1,9 @@
-
-
-
 Breast Cancer Detection with Support Vector Classifier (SVC)
+
 This repository contains Python code demonstrating the use of Support Vector Classifier (SVC) for detecting breast cancer using the Breast Cancer Wisconsin (Diagnostic) dataset. The code showcases how to load the dataset, preprocess it, train an SVC model, and evaluate its performance.
 
 Dataset
-The dataset used in this project is the Breast Cancer Wisconsin (Diagnostic) dataset, which is a classic binary classification dataset. It contains features computed from digitized images of fine needle aspirates (FNA) of breast masses, describing characteristics of cell nuclei present in the images.
+The dataset used in this project is the Breast Cancer Wisconsin (Diagnostic) dataset, a classic binary classification dataset. It contains features computed from digitized images of fine needle aspirates (FNA) of breast masses, describing characteristics of cell nuclei present in the images.
 
 Number of Instances: 569
 Number of Attributes: 30 numeric features
